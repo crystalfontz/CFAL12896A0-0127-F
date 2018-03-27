@@ -286,3 +286,6 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+/__vm
+/CFAL12896A0-0127-F0_Feather_M0.vcxproj.filters
+/CFAL12896A0-0127-F0_Feather_M0.vcxproj
