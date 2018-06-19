@@ -15,14 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="CFAL12896A0-0127-F0_Seeeduino.ino" />
+    <ClInclude Include="__vm\.CFAL12896A0-0127-F0_Feather_M0.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="__vm\.CFAL12896A0-0127-F_Feather_M0.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="__vm\.CFAL12896A0-0127-F0_Seeeduino.vsarduino.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="__vm\.CFAL12896A0-0127-F_Seeeduino.vsarduino.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <None Include="CFAL12896A0-0127-F_Feather_M0.ino" />
   </ItemGroup>
 </Project>
