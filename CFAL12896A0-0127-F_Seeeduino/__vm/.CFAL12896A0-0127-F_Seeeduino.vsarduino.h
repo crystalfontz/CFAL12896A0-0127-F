@@ -76,6 +76,6 @@ typedef void *__builtin_va_list;
 #define pgm_read_float(address_short) float()
 #define pgm_read_ptr(address_short)   short()
 
-#include "CFAL12896A0-0127-F0_Seeeduino.ino"
+#include "CFAL12896A0-0127-F_Seeeduino.ino"
 #endif
 #endif

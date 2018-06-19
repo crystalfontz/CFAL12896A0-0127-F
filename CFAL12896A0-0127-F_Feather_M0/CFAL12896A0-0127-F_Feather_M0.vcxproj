@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{C5F80730-F44F-4478-BDAE-6634EFC2CA88}</ProjectGuid>
+    <ProjectGuid>{60DE2C9F-038C-44DB-BC09-C506645AFB38}</ProjectGuid>
     <RootNamespace>
     </RootNamespace>
     <ProjectName>CFAL12896A0-0127-F_Feather_M0</ProjectName>
